@@ -11,13 +11,11 @@ Véxase a licencia e os dereitos de autor descritos máis abaixo.
 ## Visualización e execución
 
 As copias destes ficheiros Jupyter están aloxadas no servizo da nube proporcionado por
-Binder, na carpeta **practicas**:
+Binder, na carpeta **practicas**, accesibles dende a seguinte ligazón:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/CalculoMultivariable/HEAD)
 
-Recoméndase o uso destes ficheiros Jupyter usando a ligazón anterior.
-
 Para unha mellor experiencia recomendase ou ben descargalos ou clonar (usando a opción 'clone')
-o proxecto de Github completo para usar estes ficheiros nun entorno Jupyter completo.
+o proxecto completo de Github para usar estes ficheiros nun entorno Jupyter en local.
 
 ## Comenzando
 
