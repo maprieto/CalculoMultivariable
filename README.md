@@ -11,21 +11,18 @@ Véxase a licencia e os dereitos de autor descritos máis abaixo.
 ## Visualización e execución
 
 As copias destes ficheiros Jupyter están aloxadas no servizo da nube proporcionado por
-Microsoft Azure:
-<https://notebooks.azure.com/andres-prietp/libraries/calculo-multivariable>
+Binder:
+https://mybinder.org/v2/gh/maprieto/CalculoMultivariable/HEAD?urlpath=practicas
 
 Recoméndase o uso destes ficheiros Jupyter usando a ligazón anterior.
 
-Débese facer notar que cando se escolle a opción de visualización 'viewing' 
-os ficheiros no servizo de Azure poden presentar algúns artefactos (símbolos salto de liña, etc)
 Para unha mellor experiencia recomendase ou ben descargalos ou clonar (usando a opción 'clone')
-o proxecto completo para usar estes ficheiros nun entorno Jupyter completo.
+o proxecto de Github completo para usar estes ficheiros nun entorno Jupyter completo.
 
 ## Comenzando
 
 Cada guión de prácticas analiza un tema, con un pequeno conxunto de exercicios
-que deberán ser realizados ao rematar a sesión práctica. O alumnado da Universidade
-da Coruña pode usar as súas credenciais *@udc.es* para acceder ao servizo **Microsoft Azure Notebooks**.
+que deberán ser realizados ao rematar a sesión práctica.
 
 ## Autores
 
