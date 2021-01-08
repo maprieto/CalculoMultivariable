@@ -11,8 +11,8 @@ Véxase a licencia e os dereitos de autor descritos máis abaixo.
 ## Visualización e execución
 
 As copias destes ficheiros Jupyter están aloxadas no servizo da nube proporcionado por
-Binder:
-https://mybinder.org/v2/gh/maprieto/CalculoMultivariable/HEAD?urlpath=practicas
+Binder, na carpeta **practicas**:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maprieto/CalculoMultivariable/HEAD)
 
 Recoméndase o uso destes ficheiros Jupyter usando a ligazón anterior.
 
@@ -21,7 +21,7 @@ o proxecto de Github completo para usar estes ficheiros nun entorno Jupyter comp
 
 ## Comenzando
 
-Cada guión de prácticas analiza un tema, con un pequeno conxunto de exercicios
+Cada guión de prácticas (dispoñible nun Jupyter Notebook na carpeta **practicas**) analiza un tema, con un pequeno conxunto de exercicios
 que deberán ser realizados ao rematar a sesión práctica.
 
 ## Autores
