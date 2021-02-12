@@ -26,8 +26,8 @@ que deberán ser realizados ao rematar a sesión práctica.
 
 Os autores destes guións de práticas son Luis Hervella e Andrés Prieto. Parte do material usado 
 no guión da práctica referente á introducción de **Numpy** e **Matplotlib** están inspirados
-en contidos parcialmente modificados dos notebooks creados por Garth N. Wells (@garth-wells)
-no proxecto <https://notebooks.azure.com/garth-wells/projects/CUED-IA-Computing-Michaelmas>
+en contidos parcialmente modificados dos notebooks creados por Garth N. Wells (<gnw20@cam.ac.uk>)
+no proxecto <https://github.com/garth-wells/IA-maths-Jupyter>
 
 ## Licencia e copyright
 
